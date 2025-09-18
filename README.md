@@ -1,5 +1,5 @@
 # kartka_urodzionwa.py
-program - kartka urodzinowa
+#program - kartka urodzinowa
 imie = input("Podaj imię solenizanta: ")
 a = 2025
 rok_urodzenia = int(input("Podaj rok urodzenia solenizanta: "))
